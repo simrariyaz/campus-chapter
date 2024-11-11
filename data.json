@@ -1,22 +1,22 @@
 {
-    "collegeCode": "MUT",
+    "collegeCode": "SJC",
 
-    "college": "Muthoot Institute of Technology and Science",
+    "college": "St Joseph College, Devagiri",
 
-    "about": ["Welcome to the official website of µLearn MITS!","A GTech initiative, the µLearn community is all about mutual learning. µLearn MITS reflects that true essence of learning : currently with 500+ members and a total of 178K+ karma points, we are going strong!","Join our family and","Explore, Learn, Grow - Together"],
+    "about": ["Welcome to the official website of µLearn SJC!","A GTech initiative, the µLearn community is all about mutual learning. µLearn SJC reflects that true essence of learning : currently with 50+ members and a total of 11K+ karma points, we are going strong!","Join our family and","Explore, Learn, Grow - Together"],
 
     "events": [
         {
-            "month": "Mar",
-            "date": "4,5",
-            "head": "Debate Premier League",
+            "month": "Nov",
+            "date": "4",
+            "head": "Karma Marathon",
             "para": " The second season of DPL, the flagship annual debate competition by μLearn MITS,Get ready to engage in cerebral combat, let your voice be heard, and emerge as the champion of intellectual discourse!",
             "img": "assets-mulearnmits/events section/events/dpl.png"
         },
         {
             "month": "Feb",
-            "date": "20",
-            "head": "Web Tech Quiz",
+            "date": "14",
+            "head": "Valentines day",
             "para": "The WEB TECH QUIZ is a quiz designed exclusively to test knowledge in HTML, CSS , JavaScript, Backend Development, Web Security and Tech Stacks.",
             "img": "assets-mulearnmits/events section/events/web_tech.jpg"
         },
