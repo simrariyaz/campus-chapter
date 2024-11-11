@@ -16,8 +16,8 @@
         {
             "month": "Sep",
             "date": "27",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
+            "head": "Event 2",
+            "para": "UI/UX workshop.",
             "img": "https://wallpaperaccess.com/full/1642272.jpg"
         },
         {
@@ -75,37 +75,34 @@
 
     "team": {
         "staffAdvisor": {
-            "name": "Enric S Neelamkavil",
+            "name": "Anjana T K",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
         "campusLead": {
-            "name": "Elon Musk",
+            "name": "Abhinav K T",
             "image": "https://th.bing.com/th/id/OIP.DjyPSeO-t7bK2agoLSYJzgHaHa?pid=ImgDet&rs=1"
         },
-        "campusCoLead": {
-            "name": "Enric S Neelamkavil",
+        "eventssCoLead": {
+            "name": "Aldona Thomas",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
-        "treasurer": {
-            "name": "Enric S Neelamkavil",
+        "operationsCoLead": {
+            "name": "Nandakiran R",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
         "technicalLead": {
-            "name": "Enric S Neelamkavil",
+            "name": "Simra Riyaz",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
-        "mediaLead": {
-            "name": "Enric S Neelamkavil",
+        "marketingLead": {
+            "name": "Neha V",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
-        "contentLead": {
-            "name": "Enric S Neelamkavil",
+	"creativeLead": {
+            "name": "Zaamin Tarique",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
-        "operationLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
-        }
+        data.json
     },
 
     "discordLink": "",
